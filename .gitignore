@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+RaheelProj_Android/Assets/Scripts.meta
+*.meta
+RaheelProj_Android/ProjectSettings/AudioManager.asset
