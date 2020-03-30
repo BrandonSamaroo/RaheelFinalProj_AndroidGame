@@ -8,6 +8,7 @@ TagManager:
   - GreenBlock
   - RedBlock
   - BlueBlock
+  - colorManager
   layers:
   - Default
   - TransparentFX
