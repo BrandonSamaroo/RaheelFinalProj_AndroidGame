@@ -7730,32 +7730,32 @@ PrefabInstance:
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9
+      value: 7.5
       objectReference: {fileID: 0}
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.75
+      value: -1.25
       objectReference: {fileID: 0}
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
@@ -7781,6 +7781,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808950533305904478, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6938789854664264014, guid: 9b0dbcfb3fa832448a4dd22964fd654e,
         type: 3}
@@ -7942,32 +7952,32 @@ PrefabInstance:
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9
+      value: -7.5
       objectReference: {fileID: 0}
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.75
+      value: 3.25
       objectReference: {fileID: 0}
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
         type: 3}
@@ -7993,6 +8003,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3893470605836901293, guid: 201c89541018b044780e7b97999a654e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 201c89541018b044780e7b97999a654e, type: 3}

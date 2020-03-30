@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Placeholder
+  - GreenBlock
+  - RedBlock
+  - BlueBlock
   layers:
   - Default
   - TransparentFX
